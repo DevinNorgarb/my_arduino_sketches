@@ -1,0 +1,6 @@
+{
+    "sketch": "GraphicsTest.ino",
+    "port": "COM1",
+    "board": "esp32:esp32:oroca_edubot",
+    "configuration": "PartitionScheme=huge_app,FlashFreq=80,UploadSpeed=921600,DebugLevel=none"
+}

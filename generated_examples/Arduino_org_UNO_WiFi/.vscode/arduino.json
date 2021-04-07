@@ -1,0 +1,5 @@
+{
+    "sketch": "Arduino_org_UNO_WiFi.ino",
+    "port": "/dev/ttyACM0",
+    "board": "arduino:avr:uno"
+}
